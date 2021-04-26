@@ -56,3 +56,8 @@ For a more visually pleasent experience for browsing the portfolio, check out
 
   * [Netflix recommendation using collab filtering](https://github.com/shravanambudkar/portfolio/blob/main/Netflix%20recommendations/netflix-eda-recommender-approaches.ipynb): A netflix movie and show recommender projectusing data hosted on kaggle with correlations and collab filtering.
 
+
+
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration shoot an email at shravanambudkar@gmail.com
+
