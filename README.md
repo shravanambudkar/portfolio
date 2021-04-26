@@ -39,6 +39,8 @@ For a more visually pleasent experience for browsing the portfolio, check out
  * [License plate recognition and reading using deep learning](https://github.com/shravanambudkar/portfolio/tree/main/Plate_detect_and_recognize): 
 
  * [Mnist image clssification using deep learning](https://github.com/shravanambudkar/portfolio/blob/main/mnist%20image%20classification/mnist_image%20classification.ipynb):
+
+**Tools used** : *Pandas, MatplotLib, Scikit-Learn, Keras, TensrFlow, PyTorch, OpenCV*
  
 ### NLP
 
