@@ -40,7 +40,7 @@ For a more visually pleasent experience for browsing the portfolio, check out
 
  * [Mnist image clssification using deep learning](https://github.com/shravanambudkar/portfolio/blob/main/mnist%20image%20classification/mnist_image%20classification.ipynb):
 
-**Tools used** : *Pandas, MatplotLib, Scikit-Learn, Keras, TensrFlow, PyTorch, OpenCV*
+**Tools used** : *Pandas, MatplotLib, Scikit-Learn, Keras, TensorFlow, PyTorch, OpenCV*
  
 ### NLP
 
