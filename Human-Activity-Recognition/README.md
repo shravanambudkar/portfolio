@@ -2,7 +2,7 @@
 
 Recognizing human activities using Deep Learning
 
-View the project notebook here - [Link to Jupyter Notebook](http://nbviewer.jupyter.org/github/MrinalJain17/Human-Activity-Recognition/blob/master/human_activity_recognition.ipynb)
+View the project notebook here - [Link to Jupyter Notebook](https://github.com/shravanambudkar/portfolio/blob/main/Human-Activity-Recognition/human_activity_recognition.ipynb)
 
 ## Dataset
 [Recognition of Human Actions](http://www.nada.kth.se/cvap/actions/)
@@ -25,7 +25,7 @@ All the videos were captured at *25fps* frame rate. Each video has a spatial res
 		git clone 
 		cd Human-Activity-Recognition
 	```
-2. Unzip the compressed data files and store in the format as mentioned [here](https://github.com/MrinalJain17/Machine-Learning-Nanodegree/blob/master/capstone_proposal/Directory%20Structure%20for%20Data.txt)
+2. Unzip the compressed data files and store in the format as mentioned [here](https://github.com/shravanambudkar/portfolio/blob/main/Human-Activity-Recognition/Directory%20Structure%20for%20Data.txt)
 	- Use the helper function `download_files()` present in `data_utils.py` as follows to do this in your current working directory automatically. (The function will delete the compressed files after they are successfully extracted)
 
 	```python
@@ -52,7 +52,6 @@ All the videos were captured at *25fps* frame rate. Each video has a spatial res
 		
 		videos = reader.read_videos(video_absolute_paths)
 	```
-	Refer the [code](https://github.com/MrinalJain17/Human-Activity-Recognition/blob/master/utils.py#L17) for a detailed documentation.  
 	
 
 5. Run the following command to view the project notebook:
