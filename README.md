@@ -8,7 +8,7 @@ For a more visually pleasent experience for browsing the portfolio, check out
 
 ### Data Science and Exploratory Data Analysis
 
-  * [Boston House Pricing](Boston Housing/boston_housing_regression_analysis_updated.ipynb)
+  * [Boston House Pricing](https://github.com/shravanambudkar/portfolio/blob/main/Boston%20Housing/boston_housing_regression_analysis_updated.ipynb)
 
 ### Computer Vision
 
