@@ -1,5 +1,4 @@
 # Social-distance-detection
-### You can find the video with full expanation of algrithm & code here: (https://youtu.be/PTLZnE6W2tw)
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
 * Download it & move to yolo-coco folder
@@ -22,7 +21,7 @@
 ![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
 
 # For GPU:
-You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
+You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/1OYoaC1uPADWx4-jlaCxNVp8w8ZS6zGyg?usp=sharing)
 
 ## Contacts:
 * **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
