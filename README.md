@@ -8,7 +8,7 @@ For a more visually pleasent experience for browsing the portfolio, check out
 
 ### Data Science and Exploratory Data Analysis
 
-⋅⋅* Unordered sub-list. [Boston House Pricing]()
+  * [Boston House Pricing]()
 
 ### Computer Vision
 
