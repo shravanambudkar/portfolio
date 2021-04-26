@@ -25,5 +25,21 @@ For a more visually pleasent experience for browsing the portfolio, check out
 **Tools used** : *Pandas, MatplotLib, Seaborn, Folium, Plotly, Bokeh, Scikit-Learn, Keras*
 
 ### Computer Vision
+
+ * [Human Activity recognition using deep learning](https://github.com/shravanambudkar/portfolio/tree/main/Human-Activity-Recognition): The aim of the project is to create a model that can identify the basic human actions like running, jogging, walking, clapping, hand-waving and boxing. This project uses deep learning for video recognition- given a set of labelled videos, train a model so that it can give prediction for the new video. The proposed model shows around 92% accuracy for activity classification.
+
+ * [Face Mask detection using deep learning](https://github.com/shravanambudkar/portfolio/tree/main/Face-Mask-Detection): During pandemic COVID-19, WHO has made wearing masks compulsory to protect against this deadly virus. In this project We build a real-time system to detect whether the person on the webcam is wearing a mask or not. We have trained the face mask detector model using Keras and OpenCV.
+
+ * [Social distancing detector](https://github.com/shravanambudkar/portfolio/tree/main/Social-distance-detection):
+
+ * [Object detection and Tracking](https://github.com/shravanambudkar/portfolio/blob/main/Object%20detection%20and%20real%20time%20tracking/YOLOv4_DeepSort.ipynb):
+
+ * [Sign Language recognition](https://github.com/shravanambudkar/portfolio/blob/main/sign%20language%20recognition/interpret-sign-language-with-deep-learning.ipynb):
+
+ * [License plate recognition and reading using deep learning](https://github.com/shravanambudkar/portfolio/tree/main/Plate_detect_and_recognize): 
+
+ * [Mnist image clssification using deep learning](https://github.com/shravanambudkar/portfolio/blob/main/mnist%20image%20classification/mnist_image%20classification.ipynb):
+ 
 ### NLP
+
 
