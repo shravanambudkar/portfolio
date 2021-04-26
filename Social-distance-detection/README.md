@@ -18,13 +18,9 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
+![Output avi gif](https://github.com/shravanambudkar/portfolio/blob/main/Social-distance-detection/social%20distance%20detection.gif)
 
 # For GPU:
 You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/1OYoaC1uPADWx4-jlaCxNVp8w8ZS6zGyg?usp=sharing)
 
-## Contacts:
-* **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
-* **Email:[abd.shoumik@gmail.com](https://abd.shoumik@gmail.com)**
-* **Youtube:[TheLazyCoder](https://youtube.com/channel/UCWjx_FKjjfjAL-wtSi-iS4g)**
-* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/abdullah-shoumik-7a0b36135/)**
+
